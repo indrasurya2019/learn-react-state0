@@ -1,0 +1,60 @@
+.profileImage {
+
+    background: grey;
+}
+
+.grid-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 25px;
+}
+
+.myborder {
+    border: 15px solid grey;
+    background: grey;
+}
+
+.photo-place {
+    text-align: center;
+}
+
+.mydraw {
+    border: 2px solid grey;
+}
+
+.mydraw2 {
+    border: 2px solid grey;
+}
+
+.mydraw3 {
+    border: 2px solid grey;
+}
+
+.photo-draw {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.photo-draw2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.photo-draw3 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.judul,
+.judul2,
+.judul3 {
+    text-align: center;
+}
+
+.prp,
+.prp2,
+.prp3 {
+    margin: 8px;
+    padding: 2px;
+    text-align: justify;
+}
